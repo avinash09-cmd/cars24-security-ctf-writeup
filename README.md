@@ -1,8 +1,8 @@
 # Cars24 Security Engineering Challenge — Writeup
 
 **Author:** Avinash Kumar Singh
-Vellore Institute of Technology, Bhopal
-[avinash.mar05@gmail.com](mailto:avinash.mar05@gmail.com) · [avinash.23bcy10006@vitbhopal.ac.in](mailto:avinash.23bcy10006@vitbhopal.ac.in) · +91 7498997018
+Vellore Institute of Technology
+[avinash.mar05@gmail.com](mailto:avinash.mar05@gmail.com) 
 
 **Target:** `https://security-ctf.vercel.app`
 **Engagement type:** Authorized CTF-style web application assessment (Cars24 Security Engineering hiring process)
