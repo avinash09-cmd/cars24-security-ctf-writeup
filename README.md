@@ -1,7 +1,7 @@
 # Cars24 Security Engineering Challenge — Writeup
 
-**Author:** Avinash Kumar Singh
-Vellore Institute of Technology
+**Author:** Avinash Kumar Singh —
+Vellore Institute of Technology —
 [avinash.mar05@gmail.com](mailto:avinash.mar05@gmail.com) 
 
 **Target:** `https://security-ctf.vercel.app`
